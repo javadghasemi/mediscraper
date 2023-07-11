@@ -1,0 +1,19 @@
+{
+  "name": "mediscrapper",
+  "version": "0.1.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-global-proxy": "^1.0.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "soundcloud-downloader": "^1.0.0"
+  }
+}
